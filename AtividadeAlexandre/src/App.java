@@ -34,5 +34,7 @@ public class App {
                 break;
         }
 
+        //teste sem fork
+
     }
 }
