@@ -30,7 +30,7 @@ public class App {
                 
                 break;
             default:
-                System.out.println("Código inválido");
+                System.out.println("Código inválido!");
                 break;
         }
 
